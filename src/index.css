@@ -271,7 +271,7 @@ ul {
   max-width: 800px;
   position: relative;
   height: 450px;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 .person-img {
   width: 150px;
@@ -348,8 +348,4 @@ ul {
     height: 2rem;
     font-size: 1.5rem;
   }
-}
-
-.next-slide {
-  transform: translateX(100%);
 }
